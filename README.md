@@ -3,11 +3,11 @@ University Student
 
 
 <p style="align="left" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoukiFOL">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoukiFOL">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamiyama-fol">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamiyama-fol">
 </p>
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=KoukiFOL">
+  <img src="https://github-profile-trophy.vercel.app/?username=kamiyama-fol">
 </p>
 
 ### Languages<br>
