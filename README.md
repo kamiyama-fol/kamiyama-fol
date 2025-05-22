@@ -1,4 +1,4 @@
-# KamiyamaKouki
+# Kamiyama
 University Student
 
 
